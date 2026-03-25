@@ -5,4 +5,4 @@ Findings show that Random Forest Regression performed the best for nitrate nitro
 
 
 ## Full Report
-[Download the full report (PDF)](./your_file_name.pdf)
+[Download the full report (PDF)](https://github.com/MichaelNeman/Predicting-Nutrient-Loads-in-Runoff/blob/main/Michael_Neman_STAT8960_Project.pdf)
