@@ -18,7 +18,7 @@ Findings show that Random Forest Regression performed the best for nitrate nitro
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/NO3_model.ipynb)
 
 ### Phosphorus Model
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/Phos_model.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/Phos_model.ipynb)
 
 ### Total Suspended Solids Model
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/TSS_model.ipynb)
