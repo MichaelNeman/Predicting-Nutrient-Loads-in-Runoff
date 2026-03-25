@@ -8,6 +8,18 @@ Findings show that Random Forest Regression performed the best for nitrate nitro
 [Download the full report (PDF)](https://github.com/MichaelNeman/Predicting-Nutrient-Loads-in-Runoff/blob/main/Michael_Neman_STAT8960_Project.pdf)
 
 ## Colab Notebook Links
-
+### Data Cleaning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/NSQD_cleaning.ipynb)
+
+### EDA/Data Transformations
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/EDA_transformations.ipynb)
+
+### Nitrate Model
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/NO3_model.ipynb)
+
+### Phosphorus Model
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/Phos_model.ipynb)
+
+### Total Suspended Solids Model
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelNeman/Predicting-Nutrient-Loads-In-Runoff/blob/main/TSS_model.ipynb)
 
